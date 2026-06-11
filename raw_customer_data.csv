@@ -1,0 +1,9 @@
+CustomerID,Name,Age,City,PurchaseAmount,PurchaseDate
+101,Rahul,25,Mumbai,1500,12/01/2025
+102,Priya,,Pune,2000,13-01-2025
+103,Amit,22,nagpur,2500,2025/01/14
+103,Amit,22,nagpur,2500,2025/01/14
+104,Neha,24,NAGPUR,,15/01/2025
+105,Rohit,26,mumbai,3000,16-01-2025
+106,Anjali,,PUNE,1800,2025-01-17
+107,Komal,21,pune,2200,18/01/2025
